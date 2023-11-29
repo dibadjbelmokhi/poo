@@ -1,0 +1,27 @@
+//boolean equalsIgnoreCase(s2)(tverifie kelmat b majis wla miniscule)
+//String toLowerCase() trdhm bkl miniscule
+//String toUpperCase() trdhm bkl majiscule 
+//String trim() tnehi espace f jumla
+//char charAt(p) tmdlek pos te3 caractere li fklma
+//String subString(p) tkhlik tbdey chaine mn caractere li tmdihulha 
+//String subString(p,q) tkhlik tmdilha deux caractere wtmdlek chaine li bin l p hta l q wtfasi lba9i 
+//Int indexOf(s)
+//Int indexOf(s,p)
+//Int lastIndexOf(s)
+//tab declaration type_elem[] nomTab;
+//vreation du tab :nomTab=new type_elem[taille];exmpl:char[] code=new char[8];
+//matrice: type_elem[][] nomTab;
+//public tkhli okol yaccidiw liha w methode li tkune public w class te3ha meshi public mn9drush nasidiw liha (ela methiode wla attribut)
+//private ye9eydehom ykhlich ey wehd yoselha 
+//default :ey haja keyna f package n9dru rohu laya haja fih ki ndiru default 
+//protected tkhli sous class troh class mere  wla ey haja dekhl packege troh l class/tkhlina nacidiw mn sou clas  men out package tani
+//static tkhlik t3erfi metho w attribut te3 class(de class)
+//metentemish l object muhaded f class/ustilisables hta bla creation te3 objet de class
+//ey variable reyha tkune partage bin object de class nhotolha static 
+//final hya te3 constant n9drush nbdluha hta ida kant f methode tb9a thebta 
+//ida derna var b static w final reyha tb9a hakak meda haayat 
+//class abstrait n9dro nlgw fiha bzef method abstraite/methods abstraite  nlgewha ghir fi zuj hwayj class abstraite wla f interface
+//par defaut tout les classe de inteface est public est abstrait w linterface kifu kif classe my9drsh ykun instancie ye3ni my9drsh ydir exemple kima archi yhot plans
+//les methods static berk li n9dro ndirulhum implementations
+//interface fihsh variable wykun kima classe abstraite fih ghir comportement ,n9dro ndeclariw des constatnt par fiinal static wn9dru ndirulu herite mn interface khlef w class t9dr tkun fiha whda wla ktr mn ls interface 
+//interface we talk about interface.implement nehku ela class.
